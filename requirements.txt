@@ -158,9 +158,6 @@ python-dateutil==2.8.0
 python-jwt==2.0.1
 python-speech-features==0.6
 pytz==2019.3
-PyWavelets==1.1.1
-pywin32==227
-pywinpty==0.5.7
 PyYAML==5.1.2
 pyzmq==19.0.0
 qrtools==0.0.2
