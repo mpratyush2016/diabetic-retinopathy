@@ -18,7 +18,7 @@ import tensorflow as tf
 # from time import perf_counter
 # import seaborn as sns
 from keras.models import load_model
-# print(tf.version.VERSION)
+print(tf.version.VERSION)
 import pyrebase
 
 app = Flask(__name__)
